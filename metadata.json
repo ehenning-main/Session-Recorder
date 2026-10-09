@@ -1,0 +1,6 @@
+{
+  "name": "TavernEcho - TTRPG Session Recorder",
+  "description": "Long-session audio recording engineered for tabletop RPGs with live speaker diarization, background noise suppression, and timestamped bookmarking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
